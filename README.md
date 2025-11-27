@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student, aspiring back-end developer from Brazil
+Software Engineering student, aspiring back-end developer from Brazil
 
 
 # 💻 Tech Stack:
