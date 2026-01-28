@@ -52,13 +52,3 @@
 </div>
 
 ###
-
-<h3 align="left">(👉ﾟヮﾟ)👉 Visitor count</h3>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:angelo-gabriel?theme=rule34&padding=7&scale=1.4&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
