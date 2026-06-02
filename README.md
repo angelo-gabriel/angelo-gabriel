@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" height="200" src="https://upload.wikimedia.org/wikipedia/pt/6/6f/Metallica_%C3%A1lbum.jpg"  />
-
-###
-
 <p align="left">I'm Angelo from Teresina, PI<br><br>- 📚 I'm currently learning C++ and Graphics Programming<br>- ⚡ In my free time I like to make music</p>
 
 ###
