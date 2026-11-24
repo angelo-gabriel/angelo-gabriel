@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ângelo Gabriel</h1>
 <h3 align="center">A passionate developer from Teresina, PI - Brazil</h3>
 
-- 🔭 I’m currently working on [C++ and Graphics Programming](https://github.com/angelo-gabriel/Vulkano)
+- 🔭 I’m currently working on [C++ and Graphics Programming](https://github.com/angelo-gabriel/Eruption)
 
 - 📫 How to reach me **angelolinux@outlook.com**
 
